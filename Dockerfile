@@ -1,1 +1,1 @@
-From nginx;latest
+From nginx:latest
